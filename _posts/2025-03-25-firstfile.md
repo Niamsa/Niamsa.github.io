@@ -1,4 +1,0 @@
----
-title: firstfile
-date: 2025-03-25
----
